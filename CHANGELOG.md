@@ -9,7 +9,7 @@
 
 ## 2.2.5 (2017-05-11)
 - Fix bug where '#' would not display when loading from URL
-- Added an option for a "Copy details" button which copies the card title to the clipboard
+- Added an option  for a "Copy details" button which copies the card title to the clipboard
 - Add number when opening card directly
 - Add logo
 
